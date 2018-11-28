@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<fleets> 
+<fleet id=”1”> 
+<name>Renegade Trucking</name> 
+<phone>(410) 555-4050</phone> 
+<address>
+<street>1401 Russell St</street> 
+<city>Baltimore</city> 
+<state>MD</state> 
+<postal-code>21230</postal-code> 
+<country>United States</country> 
+</address> 
+<contact id="1"> 
+<email>joe@example.com</email> 
+<first-name>Joe</first-name> 
+<last-name>Manager</last-name> 
+<phone>555-4050</phone> 
+</contact> 
+</fleet>
+</fleets>
