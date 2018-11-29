@@ -1,0 +1,60 @@
+<daily-logs> 
+<daily-log person-id="1" date="2014-05-23" revision="515">
+ <driver-name>Lee Payne</driver-name> 
+ <co-drivers>Dan Collens</co-drivers>
+ <carrier-name>Renegade Trucking</carrier-name> 
+ <carrier-address>1401 Russell St, Baltimore, MD, 21230</carrier-address> 
+ <home-terminal-address>123 Another St</home-terminal-address>
+ <truck truck-id="22"> <number>133iOS</number> 
+ <license>ALYJ 633</license> 
+ <start-odometer unit="KM">123456</start-odometer> 
+ <end-odometer unit="KM">123556</end-odometer> 
+ <distance unit="KM">100</distance> 
+ </truck>
+<trailers>4127 &lt;ACPS 412&gt;</trailers> 
+<shipments>Q109A88667</shipments> 
+<remarks>Extreme weather caused unusual delay on this date.</remarks> 
+<hos-settings> 
+<home-timezone>US/Eastern</home-timezone> 
+<cycle>U.S. 70hr/8day</cycle> 
+<vehicle-type>Property</vehicle-type>
+ <exception name="US-24h-reset"/> 
+ <exception name="US-oilfield-wait"/>
+</hos-settings> 
+<last-modified-at>2014-05-27T20:53:49.386Z</last-modified-at> 
+<event continuation="true"> 
+<occurred-at>2014-05-23T00:00:00.000-04:00</occurred-at> 
+<duration>720</duration> 
+<duty-status>SL</duty-status> 
+</event> 
+<event>
+<occurred-at>2014-05-23T12:00:00.000-04:00</occurred-at> 
+<duration>179</duration> 
+<duty-status>ON</duty-status> 
+<location-name>Kitchener, ON</location-name> 
+<position lat="43.421225" lon="-80.502228" accuracy="5"/> 
+<remarks>Extra note</remarks> 
+</event> 
+<event>
+<occurred-at>2014-05-23T14:59:00.000-04:00</occurred-at>
+<duration>541</duration> 
+<duty-status>DR</duty-status> 
+<location-name>Kitchener, ON</location-name> 
+<position lat="43.421225" lon="-80.502228" accuracy="5"/> 
+<remarks/> 
+</event> 
+</daily-log> 
+<daily-log person-id="2" date="2014-05-23"> 
+<hos-settings> 
+<home-timezone>Canada/Eastern</home-timezone> 
+<cycle>U.S. 70hr/8day</cycle> 
+<vehicle-type>Property</vehicle-type>
+</hos-settings> 
+<event>
+<occurred-at>2014-05-23T00:00:00.000-04:00</occurred-at> 
+<duration>1440</duration> 
+<duty-status>OF</duty-status> 
+<remarks/> 
+</event> 
+</daily-log> 
+</daily-logs>
