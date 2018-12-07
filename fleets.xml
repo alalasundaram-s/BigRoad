@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 <fleets> 
-<fleet id=”1”> 
+<fleet id='1'> 
 <name>Renegade Trucking</name> 
 <phone>(410) 555-4050</phone> 
 <address>
@@ -10,7 +10,7 @@
 <postal-code>21230</postal-code> 
 <country>United States</country> 
 </address> 
-<contact id="1"> 
+<contact id='1'> 
 <email>joe@example.com</email> 
 <first-name>Joe</first-name> 
 <last-name>Manager</last-name> 
